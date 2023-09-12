@@ -23,6 +23,16 @@
         "id": "https://Cassidyschultz.github.io/meshes-reflections/meshes-of-the-afternoon/canvas-1/canvas",
         "type": "Canvas",
         "duration": 809.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://Cassidyschultz.github.io/meshes-reflections/annotations/meshes-of-the-afternoon-canvas-1-reflection.json",
+            "label": {
+              "none": ["Reflection"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://Cassidyschultz.github.io/meshes-reflections/meshes-of-the-afternoon/canvas-1/paintings",

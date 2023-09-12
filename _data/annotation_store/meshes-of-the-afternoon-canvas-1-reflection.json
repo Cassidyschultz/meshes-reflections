@@ -1,0 +1,132 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Cassidyschultz.github.io/meshes-reflections/annotations/meshes-of-the-afternoon-canvas-1-reflection.json",
+  "type": "AnnotationPage",
+  "label": "Reflection",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-reflection-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The first instance of reflection that the audience is introduced to is not through a mirror, but through the bread knife. When in the bread loaf, it reflects the tablecloth, but when it falls--of its own accord--it reflects the bread itself. The camera lingers on this shot, likely to highlight the importance of this (the knife) particular piece of mise-en-scene",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Cassidyschultz.github.io/meshes-reflections/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Cassidyschultz.github.io/meshes-reflections/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "6780.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-reflection-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This is the first shot that shows the main character's face instead of her shadow. More notable, however, is the reflection in her eye. Although the reflection is warped and not entirely clear, the stark white reflection of light against the subject's darker iris is apparent. This reflection of the eye is foreshadowing the mysterious figure with a mirror for a face in the very next shot.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Cassidyschultz.github.io/meshes-reflections/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Cassidyschultz.github.io/meshes-reflections/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "173.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-reflection-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "One of the most important instances of reflection in this film is the hooded mirror-figure established in this behind shot. Turning slowly to face the camera and reveal its face as a mirror, this figure's face almost entirely reflects pure white light, similar to the white glare in the protagonist's eye. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Cassidyschultz.github.io/meshes-reflections/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Cassidyschultz.github.io/meshes-reflections/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "208.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-reflection-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The knife--previously seen on the stairs--is now in the protagonist's bed. It reflects her face, although it is warped. It doesn't seem to be a reflecton of the protagonist's face in the moment, rather, it shows a reflection of herself with the orb-like glasses that're later dawned by one version of herself to kill another. Seeing as the knife is the object used to slay the sleeping version of herself, this is clear foreshadow. Moreover, the music that plays when the knife is revealed is the same as when the mirror-figure is shown.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Cassidyschultz.github.io/meshes-reflections/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Cassidyschultz.github.io/meshes-reflections/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "320.0"
+        }
+      }
+    }
+  ]
+}
